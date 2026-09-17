@@ -59,7 +59,7 @@ To prevent accidental inputs, cursor jumping, or rapid‑fire misrecognitions:
 If you just want to try AirTouch **right now**, **no building, no terminal, no extra tools** are required.
 
 1. **Download the latest pre‑built release** – go to the **Releases** page and download `AirTouch‑vX.Y.Z.zip` (replace `X.Y.Z` with the current version):  
-   <https://github.com/your-username/AirTouch/releases/latest>  
+   <https://github.com/NathN07/AirTouch/releases/latest>  
 
 2. **Unzip** the file – you’ll get an `AirTouch.app` bundle.
 
