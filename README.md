@@ -2,7 +2,7 @@
 
 AirTouch is a native macOS application that turns your Mac's camera into a virtual air trackpad. By leveraging Apple's native **Vision framework** on Apple Silicon's Neural Engine (ANE), AirTouch tracks hand landmarks with 60 FPS precision, zero external dependencies, and minimal battery overhead.
 
-It features a **non-intrusive floating HUD overlay** (`ignoresMouseEvents = true`) so you can visually see your hand tracking and gestures in real time while your clicks and keystrokes pass directly through to whatever application you are working in.
+It features a **non-intrusive floating HUD overlay** (`ignoresMouseEvents = true`) so you can visually see your hand tracking and gestures in real time while your clicks and keystrokes pass directly through to whatever application you are working in..
 
 ---
 
