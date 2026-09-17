@@ -47,7 +47,7 @@ Extend **2 fingers** together (Index + Middle):
 
 ### 1. Launching AirTouch
 ```bash
-cd /Users/niladrinath/.gemini/antigravity/scratch/AirTouch
+cd /scratch/AirTouch
 open AirTouch.app
 ```
 
